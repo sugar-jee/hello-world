@@ -1,2 +1,2 @@
 # hello-world
-Rep. for "hello world" project
+print("hello world!")
